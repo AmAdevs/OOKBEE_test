@@ -74,7 +74,7 @@ class ViewController: UIViewController {
         
         
     }
-    // Output
+    // Output ไม่สามารถ POST request ไปยัง url ได้ 
     
     /*
      
